@@ -1,24 +1,24 @@
 {
-  "name": "what-is-this",
+  "name": "window-performance",
   "version": "1.0.0",
-  "description": "build my plugings",
-  "main": "index.js",
+  "description": "首屏载入时间",
+  "main": "src/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/a044161/what-is-this.git"
+    "url": "git+https://github.com/a044161/sTeam-windowPerformance.git"
   },
   "keywords": [
     "plugings"
   ],
-  "author": "wengwang",
+  "author": "sTeam",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/a044161/what-is-this/issues"
+    "url": "https://github.com/a044161/sTeam-windowPerformance/issues"
   },
-  "homepage": "https://github.com/a044161/what-is-this#readme",
+  "homepage": "https://github.com/a044161/sTeam-windowPerformance#readme",
   "devDependencies": {
     "browser-sync": "^2.13.0",
     "browserify": "^13.0.1",
