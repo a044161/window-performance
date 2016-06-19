@@ -1,0 +1,32 @@
+{
+  "name": "what-is-this",
+  "version": "1.0.0",
+  "description": "build my plugings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a044161/what-is-this.git"
+  },
+  "keywords": [
+    "plugings"
+  ],
+  "author": "wengwang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a044161/what-is-this/issues"
+  },
+  "homepage": "https://github.com/a044161/what-is-this#readme",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "browserify": "^13.0.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-util": "^3.0.7",
+    "lodash": "^4.13.1",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.7.0"
+  }
+}
